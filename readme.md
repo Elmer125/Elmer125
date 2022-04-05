@@ -19,6 +19,6 @@ My name is Elmer Mauricio Marulanda, junior developer and electronic engineer st
 ## Projects
 
 <p align="center">
-<a href="https://elmer125.github.io/Todo-List/" >Todo-List</a><br>
-<a href="https://elmer125.github.io/MoviesReact/"><p font-size="30px">Movie Page</p></a>
+# <a href="https://elmer125.github.io/Todo-List/" >Todo-List</a><br>
+# <a href="https://elmer125.github.io/MoviesReact/">Movies Page</a>
 </p>
