@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://www.linkedin.com/in/elmer-mauricio-marulanda-382a80226"><img height="64" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"></a>&nbsp;&nbsp; 
 </p>
@@ -15,4 +14,11 @@ My name is Elmer Mauricio Marulanda, junior developer and electronic engineer st
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
+</p>
+
+##Projects
+
+<p align="center">
+<a href="https://elmer125.github.io/Todo-List/">Todo-List</a>
+<a href="https://elmer125.github.io/MoviesReact/">Movie Page</a>
 </p>
