@@ -16,7 +16,7 @@ My name is Elmer Mauricio Marulanda, junior developer and electronic engineer st
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
 </p>
 
-##Projects
+## Projects
 
 <p align="center">
 <a href="https://elmer125.github.io/Todo-List/">Todo-List</a>
