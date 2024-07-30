@@ -12,7 +12,8 @@ My name is Elmer Mauricio Marulanda, junior developer and electronic engineer st
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
 </p>
 
