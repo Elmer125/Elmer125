@@ -4,7 +4,7 @@
 
 ### Hello! 👋👋👋
 
-My name is Elmer Mauricio Marulanda, junior developer and electronic engineer student. I love learning new things and passionate about technology.
+My name is Elmer Mauricio, a software developer who loves learning new things and is passionate about technology. This is not just my job, but my hobby and passion.
 
 ## Skills
 
